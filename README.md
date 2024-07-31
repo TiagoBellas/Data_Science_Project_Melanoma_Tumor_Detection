@@ -1,6 +1,10 @@
 # Data_Science_Project_Melanoma_Tumor_Detection
 
-This is an Academic project of Data Science Pos Degree which involves Convolutional Neural Network **(CNN)** using the **Keras** framework that can accurately detect and classify **Melanoma Tumors**
+This is an Academic project Postgraduate in Data Science made in collaboration with my colleagues below, it involves Convolutional Neural Network **(CNN)** using the **Keras** framework that can accurately detect and classify **Melanoma Tumors**
+
+- https://github.com/Przon | [Fernando Reis]
+- https://github.com/lfbr0 | [Luis Ribeiro]
+- https://github.com/renato747 | [Renato Morais]
 
 <div style="color:white;display:fill;border-radius:8px;
             background-color:#03112A;font-size:150%;
