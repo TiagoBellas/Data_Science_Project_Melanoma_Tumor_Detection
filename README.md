@@ -18,6 +18,8 @@ The accurate detection and classification of **melanoma** play a crucial role in
 
 This study aims to develop a Convolutional Neural Network **(CNN)** using the **Keras** framework that can accurately detect and classify **Melanoma Tumors** from many curated images where every pixel holds the potential to redefine early detection. The CNN will be trained on a large dataset (13900 images) to learn the patterns and features associated with different skin types and also the views of melanoma's diverse manifestations.The study aims develop reliable models with high accuracy for melanoma classification.
 
+### Dataset font: https://www.kaggle.com/datasets/bhaveshmittal/melanoma-cancer-dataset?resource=download
+
 ![image](https://github.com/user-attachments/assets/1c2e1d60-6c96-43c3-8c0f-7e34ec843847)
 
 
