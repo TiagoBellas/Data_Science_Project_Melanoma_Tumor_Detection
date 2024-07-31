@@ -22,13 +22,13 @@ This study aims to develop a Convolutional Neural Network **(CNN)** using the **
 
 
 
+<h2> NOTE: Skip this if running locally! </h2>
+
 <div style="color:white;display:fill;border-radius:8px;
             background-color:#03112A;font-size:150%;
             letter-spacing:1.0px;background-image: url(https://i.imgur.com/GVd0La1.png)">
     <p style="padding: 8px;color:white;"><b><b><span style='color:#e61227'></span></b> Preparing the enviroment using Google Colab GPU</b></p>
 </div>
-
-<h2> NOTE: Skip this if running locally! </h2>
 
 As train enviroment we decide to move forward using the Google Colab GPU (free version) once the power of computational using GPUs is very efficient became the training process more fast (200x) than locally train. With this configuration we can train and also test many hipermarameters to increse the model performance.
 
